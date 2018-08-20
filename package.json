@@ -27,9 +27,11 @@
     "url": "https://github.com/kaivi/ReactInlineEdit/issues"
   },
   "homepage": "https://github.com/kaivi/ReactInlineEdit#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
   "peerDependencies": {
-    "prop-types": "^15.6.2",
-    "react": "^16.4.2"
+    "react": ">=16"
   },
   "devDependencies": {
     "babel-cli": "^6.4.0",
